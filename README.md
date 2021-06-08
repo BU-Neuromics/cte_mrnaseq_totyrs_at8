@@ -1,29 +1,12 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+MERGED repo for cte_totyrs_at8 AND cte_risk_variants_mrnaseq
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Merged repository for paper, to create figures more easily
 
-### How do I get set up? ###
+### What's present ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* symlinks from both repository (NOT re-running analysis)
+* chose to use symlinks instead of copying over files (for easy verification that the file used is IDENTICAL to that in the original repository)
