@@ -8,5 +8,6 @@ MERGED repo for cte_totyrs_at8 AND cte_risk_variants_mrnaseq
 
 ### What's present ###
 
-* symlinks from both repository (NOT re-running analysis)
+* symlinks for STATIC result files from both repository (NOT re-running analysis)
 * chose to use symlinks instead of copying over files (for easy verification that the file used is IDENTICAL to that in the original repository)
+* RUN make_symlinks.sh to automatically create symlinks in root and every folder

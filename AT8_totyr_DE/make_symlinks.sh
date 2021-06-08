@@ -14,6 +14,8 @@ for gz in /projectnb/bubhub/users/fiagus/cte_totyrs_at8/samples/HTSeq_DE/*ARS*an
     ln -s $gz ${gz##*/}
 done
 
+ln -s /projectnb/bubhub/users/fiagus/cte_totyrs_at8/jupyter_nb/all_DE_AT8_totyrs_ARS_merged.csv
+ln -s /projectnb/bubhub/users/fiagus/cte_totyrs_at8/jupyter_nb/all_FGSEA_GO_AT8_totyrs_ARS_merged.csv
 ln -s /projectnb/bubhub/users/fiagus/cte_totyrs_at8/samples/HTSeq_DE/CTES_RHIN_all_counts_filt.csv
 ln -s /projectnb/bubhub/users/fiagus/cte_totyrs_at8/samples/HTSeq_DE/CTEM_RHIN_all_counts_filt.csv
 
